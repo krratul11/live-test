@@ -11,3 +11,9 @@ $upperCaseArray = array_map('strtoupper', $filteredArray);
 print_r($upperCaseArray);
 
 ?>
+
+ README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/krratul11/live-test.git
+git push -u origin main
